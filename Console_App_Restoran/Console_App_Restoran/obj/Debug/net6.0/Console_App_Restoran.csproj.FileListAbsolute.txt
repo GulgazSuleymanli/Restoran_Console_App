@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\bin\Debug\net6.0\Console_App_Restoran.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\bin\Debug\net6.0\Console_App_Restoran.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\bin\Debug\net6.0\Console_App_Restoran.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\bin\Debug\net6.0\Console_App_Restoran.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\bin\Debug\net6.0\Console_App_Restoran.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\refint\Console_App_Restoran.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\Console_App_Restoran.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_RestoranTask\Console_App_Restoran\Console_App_Restoran\obj\Debug\net6.0\ref\Console_App_Restoran.dll
